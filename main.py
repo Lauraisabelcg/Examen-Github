@@ -5,5 +5,7 @@ def menu():
 		Cafeteria AromaCampus
 		1.Cafe con leche
 		2.Cafe americano
-		3.Cafe descafeinado""")
+		3.Cafe descafeinado
+		4.Cafe Cortado""")
+	
 
